@@ -1,6 +1,6 @@
-# State Manager
+# State Manager JS
 
-Handle state of user action is quite difficult ... State Manager to the rescue!
+Handle state of user action is quite difficult ... State Manager JS to the rescue!
 
 State Manager is a jQuery plugin that handle all possible(I think) user action.
 
@@ -43,4 +43,4 @@ $(selector).stateManager({
 
 ## LICENSE
 
-State Manager is released under the MIT Licence. See the bundled LICENSE file for details.
+State Manager JS is released under the MIT Licence. See the bundled LICENSE file for details.
